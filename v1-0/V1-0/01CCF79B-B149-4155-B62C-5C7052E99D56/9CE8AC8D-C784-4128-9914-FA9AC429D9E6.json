@@ -1,0 +1,55 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9CE8AC8D-C784-4128-9914-FA9AC429D9E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 340,
+    "x": 10,
+    "y": 1350
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Form Field/Singleline",
+  "nameIsFixed": false,
+  "originalObjectID": "93E3305F-8ADE-47BA-B997-58659977A4DC",
+  "overrides": {
+    "52137FF8-4E72-47B2-8760-13E158EDE411": {
+      "symbolID": ""
+    },
+    "D017166F-0A7D-4A78-AD12-42118EB60188": "Your screen name",
+    "E0D848C2-C396-4AEE-B13B-D1AA996C6A47": "Screen name",
+    "ECDF7DE0-3715-4048-BC9D-58B8E9662AFF": "Pen name",
+    "FBA59DD0-5416-4A2B-894D-3AB78207F912": "As the curator ofo a gallery you can choose a customize pen name to display on your gallery."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "859522AE-AAB0-4083-95FC-5744F3DB69D4",
+  "verticalSpacing": 0
+}

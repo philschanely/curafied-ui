@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C98E2A7C-2304-4A3C-9F50-DDA51CCF6870",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 665,
+    "width": 340,
+    "x": 10,
+    "y": 525
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Gallery Post",
+  "nameIsFixed": false,
+  "originalObjectID": "05A93F27-02BC-4FBA-B714-877D61C8B1BF",
+  "overrides": {
+    "5AAE8C2C-61CF-4496-84C9-B3E308F8FE08": "France, England, Cronin, Historical facts",
+    "EFC7535D-BDD6-4270-9374-3D5F8898FAE1": {
+      "symbolID": "5EC099BB-A929-4A0E-98A0-429869A2DF99"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B9A6E73C-444C-4642-B0CE-C2391DA9E4C0",
+  "verticalSpacing": 0
+}

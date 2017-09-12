@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "A053B73C-91BD-44FF-934F-197D6B3BADDA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 340,
+    "x": 10,
+    "y": 750
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "71C75D1E-AE70-43E8-B830-4719E766D66A"
+    },
+    {
+      "class": "text",
+      "id": "AAB3A5A2-A436-4130-BD84-A5CEF3809791"
+    },
+    {
+      "class": "text",
+      "id": "6D1085C2-5867-43BB-9127-E2D1B0289C31"
+    }
+  ],
+  "name": "Discussion Post/left",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

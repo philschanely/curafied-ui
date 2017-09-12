@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "743E6BD8-43CD-4C70-B6D9-D4BF76C45217",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 980,
+    "width": 360,
+    "x": 1530,
+    "y": 300
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "03ED922F-FF4F-4F3F-8D19-A702670C07AC"
+    },
+    {
+      "class": "text",
+      "id": "EEF705A4-EA76-4D79-9659-6927CB7F2D6D"
+    },
+    {
+      "class": "text",
+      "id": "26909B39-FBA6-4F10-9356-FF15F3BF9611"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6AA0F5A1-07AD-4F2A-A581-C0F335840AE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7D260B4-6710-43C5-A0EC-6A54A2F9E0DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE7E18DA-F462-4FB0-8A37-BB9428B01FC8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4028D687-FE6B-4F8D-B154-87BC15383D93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8E91DE2-9D20-44D6-ABA0-C1BC23506493"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A6C65BA-CB61-444E-A219-2938A6A0FFC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E72DC1C6-FC26-4D92-AFE1-249E7B3B6ABB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88D6555C-62A6-4366-B429-93051091346A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "98FB7CD9-95B9-41B0-A952-6E3F2C85BF53"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 40,
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 20,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 360
+  },
+  "name": "2: Curator Account Request Form",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

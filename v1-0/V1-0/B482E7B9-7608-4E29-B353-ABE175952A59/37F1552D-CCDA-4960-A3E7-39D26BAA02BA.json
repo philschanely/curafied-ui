@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6Pk1QU1deYmZpa1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QD1dlbGNvbWUsIFNhcmFoIdMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yEADSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDYAAAAAAABXQXJpYWxNVNI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y2Ao/QEFCQ0RFRkdISEpLS0xaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0W05TQWxpZ25tZW50gBSAAIASgBIQASNAPgAAAAAAABAC0hIKTk+ggBPSNDVRUldOU0FycmF5olE50jQ1VFVfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNUVjlfEBBOU1BhcmFncmFwaFN0eWxl1FhZWgpbSlxdVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMjkwMjIxNjMxNSAwLjI5MDE3NTI4ODkgMC4yOTAyMzc0NTY2AIAWgBjSXwpgYVROU0lEEAGAF9I0NWNkXE5TQ29sb3JTcGFjZaJlOVxOU0NvbG9yU3BhY2XSNDVnaFdOU0NvbG9yomc50jQ1OGqiODnSNDVsbV8QEk5TQXR0cmlidXRlZFN0cmluZ6JuOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFxclRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCXAJ4ApgCxALYAuAC6ALwAvgDDAMUAxwDJAMsAzQDUAPYBCQERARMBGAE1ATcBOQFAAUMBRQFHAUoBTAFOAVABZgF8AYUBjQGSAZ0BpgG8AcABzQHWAdsB7gHxAgQCFQIgAi0COQJbAm0CfwKLAo0CjwKRApMClQKeAqACpQKmAqgCrQK1ArgCvQLXAtsC7gL3Av0DCgMfA0kDSwNNA1IDVwNZA1sDYANtA3ADfQOCA4oDjQOSA5UDmgOvA7IDxwPZA9wD4QAAAAAAAAIBAAAAAAAAAHMAAAAAAAAAAAAAAAAAAAPj"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "37F1552D-CCDA-4960-A3E7-39D26BAA02BA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 340,
+    "x": 10,
+    "y": 77
+  },
+  "glyphBounds": "{{85, 6}, {168, 21}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Welcome, Sarah!",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2634DD46-406B-4F94-8DF6-7C8DA74D50C9"
+  },
+  "textBehaviour": 1
+}

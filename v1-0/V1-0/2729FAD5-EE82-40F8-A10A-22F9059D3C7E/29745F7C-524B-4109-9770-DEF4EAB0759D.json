@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkxPUlZdYWVoalUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QokxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQuIEludGVnZXIgZWdldCBuaWJoIHRlbXB1cywgc3VzY2lwaXQgbWFzc2EgYWMsIHBsYWNlcmF0IGRpYW0uIEV0aWFtIHVsdHJpY2llcyBncmF2aWRhIG1hc3NhIGFjIGNvbmRpbWVudHVtLtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yEADSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCwAAAAAAABXQXJpYWxNVNI0NTY3WiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ozY4OVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSNDU7PF8QEE5TRm9udERlc2NyaXB0b3KiPTlfEBBOU0ZvbnREZXNjcmlwdG9y2Ao/QEFCQ0RFRkdISEpLSkpaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEB9OU0FsbG93c1RpZ2h0ZW5pbmdGb3JUcnVuY2F0aW9uXxAPTlNNYXhMaW5lSGVpZ2h0XxAPTlNNaW5MaW5lSGVpZ2h0gBSAAIASgBIjQDQAAAAAAAAQAdISCk1OoIAT0jQ1UFFXTlNBcnJheaJQOdI0NVNUXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjU1U5XxAQTlNQYXJhZ3JhcGhTdHlsZdRXWFkKWktbXFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VPECcwLjI5MDIyMTYzMTUgMC4yOTAxNzUyODg5IDAuMjkwMjM3NDU2NgCAFoAY0l4KX2BUTlNJRBABgBfSNDViY1xOU0NvbG9yU3BhY2WiZDlcTlNDb2xvclNwYWNl0jQ1ZmdXTlNDb2xvcqJmOdI0NThpojg50jQ1a2xfEBJOU0F0dHJpYnV0ZWRTdHJpbmeibTlfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcHFUcm9vdIABAAgAEQAaACMALQAyADcAVQBbAGIAawByAH8AgQCDAIUBKgExATkBRAFJAUsBTQFPAVEBVgFYAVoBXAFeAWABZwGJAZwBpAGmAasByAHKAcwB0wHWAdgB2gHdAd8B4QHjAfkCDwIYAiACJQIwAjkCTwJTAmACaQJuAoEChAKXAqgCswLAAswC4QMDAxUDJwMpAysDLQMvAzgDOgM/A0ADQgNHA08DUgNXA3EDdQOIA5EDlwOkA7kD4wPlA+cD7APxA/MD9QP6BAcECgQXBBwEJAQnBCwELwQ0BEkETARhBHMEdgR7AAAAAAAAAgEAAAAAAAAAcgAAAAAAAAAAAAAAAAAABH0="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "29745F7C-524B-4109-9770-DEF4EAB0759D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 340,
+    "x": 10,
+    "y": 525
+  },
+  "glyphBounds": "{{0, 4}, {315, 72}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "CDC1E262-CE18-4FCD-BE86-3BA8ADCA142D"
+  },
+  "textBehaviour": 1
+}

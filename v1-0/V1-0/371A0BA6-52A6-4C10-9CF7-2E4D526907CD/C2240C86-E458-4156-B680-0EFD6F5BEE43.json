@@ -1,0 +1,49 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcnNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmJyszNDU2Nz5CUFNWWmFlaWxuVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADV0NvbnRlbnTTERIKExkfV05TLmtleXNaTlMub2JqZWN0c6UUFRYXGIAEgAWABoAHgAilGhscHR6ACYAKgAuAE4AXgBtWTlNLZXJuXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQABAB0gooKSpfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ASgAzTERIKLC8yoi0ugA2ADqIwMYAPgBCAEV8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAV0FyaWFsTVTSODk6O1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM6PD1cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jg5P0BfEBBOU0ZvbnREZXNjcmlwdG9yokE9XxAQTlNGb250RGVzY3JpcHRvctgKQ0RFRkdISUpLTEwmTk5PWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzXxAfTlNBbGxvd3NUaWdodGVuaW5nRm9yVHJ1bmNhdGlvbl8QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodFtOU0FsaWdubWVudIAWgACAFIAUI0A0AAAAAAAAEALSEgpRUqCAFdI4OVRVV05TQXJyYXmiVD3SODlXWF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1dZPV8QEE5TUGFyYWdyYXBoU3R5bGXUW1xdCl4mX2BVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAmMC42MDc4OTIyMTUzIDAuNjA3ODAzMzQ0NyAwLjYwNzkyMjU1NACAGIAa0mIKY2RUTlNJRBABgBnSODlmZ1xOU0NvbG9yU3BhY2WiaD1cTlNDb2xvclNwYWNl0jg5amtXTlNDb2xvcqJqPdI4OTxtojw90jg5b3BfEBJOU0F0dHJpYnV0ZWRTdHJpbmeicT1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRdHVUcm9vdIABAAgAEQAaACMALQAyADcAVwBdAGQAbQB0AIEAgwCFAIcAjwCWAJ4AqQCvALEAswC1ALcAuQC/AMEAwwDFAMcAyQDLANIA/QEfATIBOgE8AT4BQwFgAWIBZAFrAW4BcAFyAXUBdwF5AXsBkQGnAbABuAG9AcgB0QHnAesB+AIBAgYCGQIcAi8CQAJLAlgCZAKGApgCqgK2ArgCugK8Ar4CxwLJAs4CzwLRAtYC3gLhAuYDAAMEAxcDIAMmAzMDSANxA3MDdQN6A38DgQODA4gDlQOYA6UDqgOyA7UDugO9A8ID1wPaA+8EAQQEBAkAAAAAAAACAQAAAAAAAAB2AAAAAAAAAAAAAAAAAAAECw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C2240C86-E458-4156-B680-0EFD6F5BEE43",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 68,
+    "x": 20,
+    "y": 304
+  },
+  "glyphBounds": "{{0, 4}, {68, 12}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Content",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "EE3799AD-7B7A-4CA5-9A3C-6E8CE3EB5779"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6Pk1QU1deYmZpa1UkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QFFdlbGNvbWUgdG8gQ3VyYWZpZWQh0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANgAAAAAAAFdBcmlhbE1U0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LYCj9AQUJDREVGR0hISktLTFpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSAFIAAgBKAEhABI0A+AAAAAAAAEALSEgpOT6CAE9I0NVFSV05TQXJyYXmiUTnSNDVUVV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1RWOV8QEE5TUGFyYWdyYXBoU3R5bGXUWFlaCltKXF1VTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4yOTAyMjE2MzE1IDAuMjkwMTc1Mjg4OSAwLjI5MDIzNzQ1NjYAgBaAGNJfCmBhVE5TSUQQAYAX0jQ1Y2RcTlNDb2xvclNwYWNlomU5XE5TQ29sb3JTcGFjZdI0NWdoV05TQ29sb3KiZznSNDU4aqI4OdI0NWxtXxASTlNBdHRyaWJ1dGVkU3RyaW5nom45XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XFyVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJwAowCrALYAuwC9AL8AwQDDAMgAygDMAM4A0ADSANkA+wEOARYBGAEdAToBPAE+AUUBSAFKAUwBTwFRAVMBVQFrAYEBigGSAZcBogGrAcEBxQHSAdsB4AHzAfYCCQIaAiUCMgI+AmACcgKEApACkgKUApYCmAKaAqMCpQKqAqsCrQKyAroCvQLCAtwC4ALzAvwDAgMPAyQDTgNQA1IDVwNcA14DYANlA3IDdQOCA4cDjwOSA5cDmgOfA7QDtwPMA94D4QPmAAAAAAAAAgEAAAAAAAAAcwAAAAAAAAAAAAAAAAAAA+g="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "C3BD76C1-16D1-4523-8308-F5661667E897",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 340,
+    "x": 10,
+    "y": 77
+  },
+  "glyphBounds": "{{64, 6}, {210, 18}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Welcome to Curafied!",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "2634DD46-406B-4F94-8DF6-7C8DA74D50C9"
+  },
+  "textBehaviour": 1
+}

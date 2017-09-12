@@ -1,0 +1,54 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F4B7D88C-8814-4B4E-A4A1-008D68BAA70A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 235,
+    "width": 340,
+    "x": 10,
+    "y": 1750
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Form Field/Multiline w info",
+  "nameIsFixed": false,
+  "originalObjectID": "93E3305F-8ADE-47BA-B997-58659977A4DC",
+  "overrides": {
+    "52137FF8-4E72-47B2-8760-13E158EDE411": {
+      "symbolID": ""
+    },
+    "D017166F-0A7D-4A78-AD12-42118EB60188": "You’ve heard the expression, “Just believe it and it will come.” Well, technically, that is true, however, ‘believing’ is not just thinking that you can have it; it is also feeling that it is possible. When we believe that we can “have it,” that means we have no doubt in receiving it.\nAnd when it feels possible, you have removed doubt.\nAnd when you remove the doubt, the universal Law of Attraction can bring your desires to you.\nWhen using the formula for Deliberate Attraction, ",
+    "E0D848C2-C396-4AEE-B13B-D1AA996C6A47": "Gallery public biography",
+    "FBA59DD0-5416-4A2B-894D-3AB78207F912": "As a curator of your own gallery you can provide a biography that is visible to your subscribers."
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "859522AE-AAB0-4083-95FC-5744F3DB69D4",
+  "verticalSpacing": 0
+}

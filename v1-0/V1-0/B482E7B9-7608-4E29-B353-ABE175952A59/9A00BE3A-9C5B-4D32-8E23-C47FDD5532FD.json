@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9A00BE3A-9C5B-4D32-8E23-C47FDD5532FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 341,
+    "x": 9,
+    "y": 173
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Simple List Item",
+  "nameIsFixed": false,
+  "originalObjectID": "CC53250A-D360-4E6B-992B-E993D68221D2",
+  "overrides": {
+    "25970468-3F1F-415C-A55B-4FFAA7CB9D17": "Marie Carlson",
+    "BF8FF9CA-43B3-4DBD-B93B-60BE8C3597F7": {
+      "symbolID": "ED4FF853-7539-42D7-ADFD-86708920E57D"
+    },
+    "EA2164DB-0F1F-499F-A05E-9507D8E815CE": "Marie Carlson"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8ED294D1-8AFF-4E5E-9E23-E4513E3B4B6B",
+  "verticalSpacing": 0
+}
