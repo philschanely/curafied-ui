@@ -1,0 +1,69 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkxPUlZdYWVoalUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA1pbV2ViIExpbmtd0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAJgAAAAAAAFdBcmlhbE1U0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LYCj9AQUJDREVGR0hISktKSlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAFIAAgBKAEiNANAAAAAAAABAB0hIKTU6ggBPSNDVQUVdOU0FycmF5olA50jQ1U1RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNTVTlfEBBOU1BhcmFncmFwaFN0eWxl1FdYWQpaS1tcVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJjAuNjA3ODkyMjE1MyAwLjYwNzgwMzM0NDcgMC42MDc5MjI1NTQAgBaAGNJeCl9gVE5TSUQQAYAX0jQ1YmNcTlNDb2xvclNwYWNlomQ5XE5TQ29sb3JTcGFjZdI0NWZnV05TQ29sb3KiZjnSNDU4aaI4OdI0NWtsXxASTlNBdHRyaWJ1dGVkU3RyaW5nom05XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0XBxVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAJAAlwCfAKoArwCxALMAtQC3ALwAvgDAAMIAxADGAM0A7wECAQoBDAERAS4BMAEyATkBPAE+AUABQwFFAUcBSQFfAXUBfgGGAYsBlgGfAbUBuQHGAc8B1AHnAeoB/QIOAhkCJgIyAkcCaQJ7Ao0CjwKRApMClQKeAqACpQKmAqgCrQK1ArgCvQLXAtsC7gL3Av0DCgMfA0gDSgNMA1EDVgNYA1oDXwNsA28DfAOBA4kDjAORA5QDmQOuA7EDxgPYA9sD4AAAAAAAAAIBAAAAAAAAAHIAAAAAAAAAAAAAAAAAAAPi"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "9AE95D3C-54EB-41E8-8463-761DB7A3390D",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 52,
+    "x": 10,
+    "y": 1788
+  },
+  "glyphBounds": "{{0, 6}, {52, 11}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "[Web Link]",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "C693F31D-CC92-4BD3-B8A5-A7BE62B4DDBA"
+  },
+  "textBehaviour": 0,
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "23C033FD-79AF-4332-BE56-929110228F17",
+      "transition": 0
+    }
+  }
+}

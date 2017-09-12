@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 485,
+    "height": 340,
     "width": 340,
     "x": 10,
-    "y": 1215
+    "y": 890
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -24,17 +24,17 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 1,
   "masterInfluenceEdgeMinYPadding": 0,
   "name": "Gallery Post",
   "nameIsFixed": false,
-  "originalObjectID": "05A93F27-02BC-4FBA-B714-877D61C8B1BF",
+  "originalObjectID": "8AABE095-6672-47C4-AD8D-27FD2571591C",
   "overrides": {
-    "20774C91-7E05-45B0-8ECA-C728D307E9A3": "On Being Human",
-    "5AAE8C2C-61CF-4496-84C9-B3E308F8FE08": "Humans are silly, Motivation",
-    "74DD8A06-823B-441A-A675-7C4198198DAE": "We’ve all heard how crucial it is to set intentions, goals and targets. Powerful goals electrify us. Clear intentions energize and pull us forward.\nWithout a clearcut intention, we’re reactive and don’t get around to doing the important things when we want them done. Instead, we spend our time fighting random fires.\nWithout clear intentions, anything might happen. And usually does.\nLiterally, intentions are like the steering wheel on your car. Their whole purpose is to give you control over where you’re going. But when setting intentions or goals, keep in mind that if you can’t measure it, you can’t manage it.\nNow, it’s good to have intentions at more than one level. When we get up into the more conceptual intentions, such as “I will contribute to the wellbeing of those around me,” these become like a mission statement.\nBut then, be sure you move on to decide specifically how you will go about implementing your mission in your daily life. Specifics are essential. How — specifically — will you put your mission into action today? What will you actually DO about your highest intentions? It’s important to set intentions for yourself because this is where the rubber meets the road. Just say “I’m going to do this and this.” It should be nothing big and overpowering. Just some stuff you’re meaning to do or achieve short-term. Be sure to write them down on paper. When you list them out, you can clearly look over your results afterward and check yourself. At the end of today or this time next week, did you do what you said you’d do? Expressed like that, it’s clear that we’re building a kind of internal integrity check within ourselves.\nWhen you’re first starting to build this new intention-setting skill (habit), it’s important not to pile on too much. Sure, it’s easy to get all excited about turning over a new leaf, but it’s essential that you start where you are NOW, not where you think you SHOULD be. There are things that, from experience, you already know you can do. Set your intentions to do those things (plus perhaps a little bit more) and achieve them. Then, when you’re comfortable doing what you say you’ll do, then you can begin to stretch your intention muscles a little more. But as in any new regimin, begin easy. Begin with what you can actually do. And only after you get comfortable with the intention-setting process should you start going for real growth. Patience – taking small, measured steps – is more than a virtue here. It’s the key to keeping yourself moving forward. (Notice I said patience, not procrastination.) Attempt too much too soon, and the end result will be another round of demotivation and discouragement.\nInstead, go about this logically and gradually: keep your eye on the level you want to reach next year, and let today’s effort take you 1/365th of the way there. Do this, and you’ll see real, measurable progress as well as achievements you’ll truly be proud of.\nIt’s all pretty simple stuff, really. Just training yourself to keep your word to yourself."
+    "0DA0D284-BA5F-4107-AAE9-483E4F6D98AD": "Send This One to Mom",
+    "31678BA8-10D4-470B-8764-562B8C377894": "We’ve all heard how crucial it is to set intentions, goals and targets. Powerful goals electrify us.",
+    "8F8C7862-C4F0-4D74-816C-F03082A82693": "Humans are silly, Motivation"
   },
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -46,6 +46,6 @@
     "miterLimit": 10,
     "startDecorationType": 0
   },
-  "symbolID": "B9A6E73C-444C-4642-B0CE-C2391DA9E4C0",
+  "symbolID": "43A74680-450B-45C9-A3A0-A100134A1AC9",
   "verticalSpacing": 0
 }

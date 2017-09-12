@@ -1,0 +1,60 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbm9YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PkxPUlZdYWVoalUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QXiAmAGEAbgBkACAAeQBvAHUAIAB0AGgAbwB1AGcAaAB0ACAAbABpAG8AbgBzACAAbABpAGsAZQBkACAAdABvACAAZQBhAHQAIABhAG4AdABlAGwAbwBwAGUALgAgAFQAaABpAHMAIABvAG4AZQAgAGQAZQBjAGkAZABlAGQAIAB0AG8AIABzAGkAdAAgAGQAbwB3AG4AIAB0AG8AIABhACAAZwBhAG0AZQAgAG8AZgAgAGMAaABlAHMAcwAh0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAFYAZVk5TS2Vybl8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlV05TQ29sb3IQANIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAFdBcmlhbE1U0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LYCj9AQUJDREVGR0hISktKSlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QH05TQWxsb3dzVGlnaHRlbmluZ0ZvclRydW5jYXRpb25fEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAFIAAgBKAEiNANAAAAAAAABAB0hIKTU6ggBPSNDVQUVdOU0FycmF5olA50jQ1U1RfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNTVTlfEBBOU1BhcmFncmFwaFN0eWxl1FdYWQpaS1tcVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QJzAuMjkwMjIxNjMxNSAwLjI5MDE3NTI4ODkgMC4yOTAyMzc0NTY2AIAWgBjSXgpfYFROU0lEEAGAF9I0NWJjXE5TQ29sb3JTcGFjZaJkOVxOU0NvbG9yU3BhY2XSNDVmZ1dOU0NvbG9yomY50jQ1OGmiODnSNDVrbF8QEk5TQXR0cmlidXRlZFN0cmluZ6JtOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFwcVRyb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQFEAUsBUwFeAWMBZQFnAWkBawFwAXIBdAF2AXgBegGBAaMBtgG+AcABxQHiAeQB5gHtAfAB8gH0AfcB+QH7Af0CEwIpAjICOgI/AkoCUwJpAm0CegKDAogCmwKeArECwgLNAtoC5gL7Ax0DLwNBA0MDRQNHA0kDUgNUA1kDWgNcA2EDaQNsA3EDiwOPA6IDqwOxA74D0wP9A/8EAQQGBAsEDQQPBBQEIQQkBDEENgQ+BEEERgRJBE4EYwRmBHsEjQSQBJUAAAAAAAACAQAAAAAAAAByAAAAAAAAAAAAAAAAAAAElw=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "450CA2E9-55F1-4360-9666-98FCBBDF83A6",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 340,
+    "x": 0,
+    "y": 245
+  },
+  "glyphBounds": "{{0, 4}, {338, 34}}",
+  "heightIsClipped": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Caption",
+  "nameIsFixed": true,
+  "originalObjectID": "450CA2E9-55F1-4360-9666-98FCBBDF83A6",
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "CDC1E262-CE18-4FCD-BE86-3BA8ADCA142D"
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "type-duplicate": {
+        "action": "article",
+        "options": {
+          "section": "motivation",
+          "type": "body"
+        },
+        "title": "Motivation"
+      }
+    }
+  }
+}
