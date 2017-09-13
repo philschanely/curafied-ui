@@ -1,0 +1,36 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "do_objectID": "CF423B30-987E-4E74-A457-D5B9AA89C8A0",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":12007042,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

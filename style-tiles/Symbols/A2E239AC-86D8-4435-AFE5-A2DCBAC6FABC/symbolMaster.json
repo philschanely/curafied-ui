@@ -1,0 +1,188 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 166,
+  "do_objectID": "A2E239AC-86D8-4435-AFE5-A2DCBAC6FABC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1047,
+    "width": 760,
+    "x": 100,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "682C3EF2-8536-43A2-B5DE-90FD342AA97B"
+    },
+    {
+      "class": "text",
+      "id": "15531B89-F96A-44FA-87AC-C9FFC7455B04"
+    },
+    {
+      "class": "text",
+      "id": "459BEC5A-D12B-4811-8F68-3B12D3127EA4"
+    },
+    {
+      "class": "text",
+      "id": "95F5AEA3-40BA-4DDD-B849-4D911647424C"
+    },
+    {
+      "class": "text",
+      "id": "41995DE8-306C-4AB0-A9E2-4AE0B9990F32"
+    },
+    {
+      "class": "text",
+      "id": "8CB95018-73E6-4369-BD2C-F02C31A6900B"
+    },
+    {
+      "class": "text",
+      "id": "416AD54B-882E-45D5-B8F9-513390670BC6"
+    },
+    {
+      "class": "text",
+      "id": "1E94A925-9A7D-405D-93A5-A6EA224565EB"
+    },
+    {
+      "class": "text",
+      "id": "6F274FA5-805B-4FA4-B0AA-2877B29E1E6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3EB38D98-7B40-4DB3-9DAE-B42F832382B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "43A8089D-FAD3-47DE-AB44-ECDE5F83B560"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "32C8B3C9-1948-4EA3-A6F1-525CD3BBC997"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "57676C19-5608-41AB-84FB-63A67E095362"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B2C8818F-384B-424E-BCED-811E0B6FCDC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3BF180AF-295F-4813-BC67-8F46B4FD534B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D4E8B11-E051-4E9B-B355-C5860305C31C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "435D58AE-B445-4036-90BA-37748DBF8AFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97401937-461E-42CD-A7C7-0DD66DA2472F"
+    },
+    {
+      "class": "text",
+      "id": "98943CDC-DC23-420E-B1D2-5CB161B8F2F4"
+    },
+    {
+      "class": "text",
+      "id": "C13473E8-5E10-4F22-9DF9-5CA7A55D3CB4"
+    },
+    {
+      "class": "text",
+      "id": "8F95DE90-04ED-4B5C-972B-30542CA869AD"
+    },
+    {
+      "class": "text",
+      "id": "D83A4D9B-1828-4BE6-9B39-9304999D01AC"
+    },
+    {
+      "class": "text",
+      "id": "94B4E606-26E4-4532-81E8-0A81139DE179"
+    },
+    {
+      "class": "text",
+      "id": "19623D72-3765-414D-966E-DED1C61C9DBE"
+    },
+    {
+      "class": "text",
+      "id": "4AD5458A-FFCE-4DE8-9684-77A1B493837B"
+    },
+    {
+      "class": "text",
+      "id": "A24A22C9-4223-425C-AB3C-DFB1AF416354"
+    },
+    {
+      "class": "text",
+      "id": "20D89A69-081F-4567-9813-A90074E1B5D8"
+    },
+    {
+      "class": "text",
+      "id": "3C1F0B93-2F15-4745-AA22-944EED97587D"
+    },
+    {
+      "class": "text",
+      "id": "A3D83EC4-7A64-4CB9-9B5F-A9AC32223E95"
+    },
+    {
+      "class": "text",
+      "id": "C0D7DFB8-6B68-4EAA-B048-37820C2C8978"
+    }
+  ],
+  "name": "Original",
+  "nameIsFixed": false,
+  "originalObjectID": "A2E239AC-86D8-4435-AFE5-A2DCBAC6FABC",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "47C20024-29EE-4A40-A3EB-4DD543A9A818",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGZ2hYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNT9CRUlNVVZXWFldYWNVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANfECBNb3JiaSBkaWN0dW0gbHVjdHVzIHBlbGxlbnRlc3F1ZdMREgoTFxtXTlMua2V5c1pOUy5vYmplY3RzoxQVFoAEgAWABqMYGRqAB4ALgA+AF1dOU0NvbG9yXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXUICEiCiMkJSZVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAnMC4yOTQxMTc2NDcxIDAuNzI5NDExNzY0NyAwLjg5MDE5NjA3ODQAEAGACIAK0igKKSpUTlNJRBABgAnSLC0uL1okY2xhc3NuYW1lWCRjbGFzc2VzXE5TQ29sb3JTcGFjZaIwMVxOU0NvbG9yU3BhY2VYTlNPYmplY3TSLC0zNFdOU0NvbG9yojMx1TY3Cjg5Ojs8PT1fEBJOU1BhcmFncmFwaFNwYWNpbmdaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHMjQCgAAAAAAACAAIAOgAyADNISCkBBoIAN0iwtQ0RXTlNBcnJheaJDMdIsLUZHXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjRkgxXxAQTlNQYXJhZ3JhcGhTdHlsZdIKSktMXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFoAQ0xESCk5RVKJPUIARgBKiUlOAE4AUgBVfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNALAAAAAAAAF8QEk1vbnRzZXJyYXQtUmVndWxhctIsLVpbXxATTlNNdXRhYmxlRGljdGlvbmFyeaNaXDFcTlNEaWN0aW9uYXJ50iwtXl9fEBBOU0ZvbnREZXNjcmlwdG9yomAxXxAQTlNGb250RGVzY3JpcHRvctIsLVxiolwx0iwtZGVfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZjFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRaWpUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMApgCtALUAwADEAMYAyADKAM4A0ADSANQA1gDeAPEBEwEcASIBLwFEAW4BcAFyAXQBeQF+AYABggGHAZIBmwGoAasBuAHBAcYBzgHRAdwB8QH8AgkCFQIeAiACIgIkAiYCKwIsAi4CMwI7Aj4CQwJdAmECdAJ5ApYCmAKaAqECpAKmAqgCqwKtAq8CsQLHAt0C5gL7AwADFgMaAycDLAM/A0IDVQNaA10DYgN3A3oDjwOhA6QDqQAAAAAAAAIBAAAAAAAAAGsAAAAAAAAAAAAAAAAAAAOr"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "95D1DC32-E940-43C9-987F-E59356ACBA22",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 627,
+    "x": 153,
+    "y": 1446
+  },
+  "glyphBounds": "{{1, 3}, {237, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Hyperlink",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "11C8DEEF-A9F8-4414-996F-27BB1EB91056"
+  },
+  "textBehaviour": 1
+}
